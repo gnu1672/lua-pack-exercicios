@@ -1,8 +1,5 @@
 # lua-pack-exercicios
 Um pack de exercícios em Lua, pensado para iniciantes.
-Exercicio 01: Faça um programa quqe mostre a mensagem olá,mundo!. exercicio02: faça um programa que calcule a altura de uma pessoa e informar seu peso ideal. exercicio 03: Faça um programa que seja uma calculadora funcional com operacões básicas. exercicio 04: Faça um programa que calcule a area de um quadrado e mostre o triplo. exercicio 05: Faça um programa calcule o perimetro de um quadrado e mostre o dobro.
+Exercicio 01: Faça um programa que mostre a mensagem olá,mundo!. exercicio02: faça um programa que calcule a altura de uma pessoa e informar seu peso ideal. exercicio 03: Faça um programa que seja uma calculadora funcional com operacões básicas. exercicio 04: Faça um programa que calcule a area de um quadrado e mostre o triplo. exercicio 05: Faça um programa calcule o perimetro de um quadrado e mostre o dobro.
 
-
-
-50 - R$ 9.00
 exercicio numero 06: Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto. exercicio 07:Uma empresa precisa calcular uma pesquisa com outras organizações sobre "Qual o melhor Sistema Operacional para uso em servidores?" As possiveis respostas são:1- Windows Server 2- Unix 3- Linux 4- Netware 5- Mac OS 6- Outro. Você foi contratado pela empresa para calcular os votos usando um programa.
