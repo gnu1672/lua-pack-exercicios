@@ -1,5 +1,35 @@
-# lua-pack-exercicios
-Um pack de exercícios em Lua, pensado para iniciantes.
-Exercicio 01: Faça um programa que mostre a mensagem olá,mundo!.   exercicio02: faça um programa que calcule a altura de uma pessoa e informar seu peso ideal.  exercicio 03:   Faça um programa que seja uma calculadora funcional com operacões básicas.    exercicio 04:  Faça um programa que calcule a area de um quadrado e mostre o triplo. exercicio 05: Faça um programa calcule o perimetro de um quadrado e mostre o dobro.
+# # 🎯 Lua para Iniciantes - Exercícios Nível 1
 
-exercicio  06: Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto. exercicio 07:Uma empresa precisa calcular uma pesquisa com outras organizações sobre "Qual o melhor Sistema Operacional para uso em servidores?" As possiveis respostas são:1- Windows Server 2- Unix 3- Linux 4- Netware 5- Mac OS 6- Outro. Você foi contratado pela empresa para calcular os votos usando um programa.                                          NOTA: os arquivos .lua dos exercicios não estão resolvidos.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Lua](https://img.shields.io/badge/Lua-5.4-blue)](https://www.lua.org/)
+
+> 📚 3 exercícios para dar seus primeiros passos em Lua
+
+## 🎯 Para quem é este repositório?
+- Quem nunca programou antes
+- Pessoas que querem aprender Lua do zero
+- Autodidatas que preferem aprender praticando
+
+## 📋 Pré-requisitos
+- Lua instalado ([Instruções aqui](https://www.lua.org/download.html))
+- Qualquer editor de texto (recomendo VS Code)
+
+## 🗺️ O que você vai aprender
+
+| Exercício | Conceito | Dificuldade |
+|-----------|----------|-------------|
+| 01 | `print()` - Exibir mensagens | ⭐ |
+| 02 | Variáveis (string e number) | ⭐ |
+| 03 | `io.read()` - Entrada de dados | ⭐ |
+
+## 🚀 Como usar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/lua-exercicios-iniciantes.git
+
+# Entre na pasta
+cd lua-exercicios-iniciantes/exercicios
+
+# Execute qualquer exercício
+lua 01-hello.lua
